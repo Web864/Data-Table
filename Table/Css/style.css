@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
+.container h1{
+    background: cadetblue;
+    padding: 2rem;
+    font-size: 3rem;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+thead{
+    background-color: aqua;
+}
+tbody tr:nth-child(odd){
+    background-color: aquamarine;
+}
+tbody tr:nth-child(even){
+    background-color: #ddd;
+}
