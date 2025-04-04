@@ -1,0 +1,1 @@
+This interactive dynamic table is built using HTML and CSS, allowing users to display and organize tabular data efficiently. The table includes alternating row colors for better readability and a dropdown menu to adjust the number of displayed rows. It demonstrates my ability to implement user-friendly and well-structured data presentation in web design.
